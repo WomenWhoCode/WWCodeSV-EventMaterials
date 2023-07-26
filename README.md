@@ -2,4 +2,4 @@
 
 ### Events Materials for WWCode Silicon Valley
 
-**Events** - https://www.womenwhocode.com/sv/events
+**Events** - https://www.womenwhocode.com/network/sv
